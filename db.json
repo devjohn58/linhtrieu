@@ -4,25 +4,5 @@
     "id":"0",
     "name" : "tienthien",
     "age: "23",
-  },
-  {
-    "id":"1",
-    "name" : "tienthien1",
-    "age: "23",
-  },
-  {
-    "id":"2",
-    "name" : "tienthien2",
-    "age: "23",
-  },
-  {
-    "id":"3",
-    "name" : "tienthien3",
-    "age: "23",
-  },
-  {
-    "id":"4",
-    "name" : "tienthien4",
-    "age: "23",
-  },
+  }
 }
